@@ -21,6 +21,7 @@ import {
   Globe,
   Twitter,
 } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 import { Project, Paper, Certificate } from './types';
 
 // --- Types ---
@@ -779,6 +780,7 @@ const App: React.FC = () => {
           </footer>
 
         </main>
+        <Analytics />
     </div>
   );
 };
