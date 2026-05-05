@@ -763,7 +763,7 @@ const App: React.FC = () => {
                <div className="flex justify-center gap-12 mb-16">
                   <a href="https://www.linkedin.com/in/abhnv07/" target="_blank" className="text-gold-600 hover:text-gold-300 transition-colors interactive-hover"><LinkedInLogo size={24} /></a>
                   <a href="https://github.com/Abhinavv-007" target="_blank" className="text-gold-600 hover:text-gold-300 transition-colors interactive-hover"><Github size={24} /></a>
-                  <a href="https://x.com/Abhnv007" target="_blank" className="text-gold-600 hover:text-gold-300 transition-colors interactive-hover"><XLogo size={24} /></a>
+                  <a href="https://x.com/Abhnv8" target="_blank" className="text-gold-600 hover:text-gold-300 transition-colors interactive-hover"><XLogo size={24} /></a>
                   <a href="https://www.abhnv.in/contact" target="_blank" className="text-gold-600 hover:text-gold-300 transition-colors interactive-hover"><Mail size={24} /></a>
                </div>
 
